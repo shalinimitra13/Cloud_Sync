@@ -1,0 +1,92 @@
+Here are 15 multiple-choice questions (MCQs) on SQL:
+
+1. **Which SQL statement is used to retrieve data from a database?**  
+   a) SELECT  
+   b) DELETE  
+   c) UPDATE  
+   d) INSERT  
+
+2. **What does the SQL keyword "JOIN" do?**  
+   a) Deletes records from a table  
+   b) Combines data from two or more tables  
+   c) Sorts data in a table  
+   d) Updates records  
+
+3. **Which SQL clause is used to filter records based on a condition?**  
+   a) WHERE  
+   b) GROUP BY  
+   c) ORDER BY  
+   d) HAVING  
+
+4. **Which statement is used to remove a table from the database?**  
+   a) DELETE TABLE  
+   b) REMOVE TABLE  
+   c) DROP TABLE  
+   d) CLEAR TABLE  
+
+5. **What is the purpose of the "GROUP BY" clause in SQL?**  
+   a) Sorts data in ascending order  
+   b) Groups rows that have the same values in specified columns  
+   c) Deletes duplicate records  
+   d) Updates multiple records at once  
+
+6. **Which SQL function returns the number of records in a table?**  
+   a) COUNT()  
+   b) SUM()  
+   c) AVG()  
+   d) LENGTH()  
+
+7. **What does the "HAVING" clause do in SQL?**  
+   a) Filters records before aggregation  
+   b) Filters records after aggregation  
+   c) Deletes records from a table  
+   d) Sorts records in descending order  
+
+8. **Which SQL keyword is used to modify existing records?**  
+   a) MODIFY  
+   b) UPDATE  
+   c) CHANGE  
+   d) ALTER  
+
+9. **Which SQL constraint ensures that a column cannot have a NULL value?**  
+   a) UNIQUE  
+   b) CHECK  
+   c) DEFAULT  
+   d) NOT NULL  
+
+10. **Which SQL command is used to add new rows to a table?**  
+   a) ADD RECORD  
+   b) NEW ROW  
+   c) INSERT INTO  
+   d) APPEND  
+
+11. **What does the "ORDER BY" clause do?**  
+   a) Filters records based on a condition  
+   b) Sorts records in ascending or descending order  
+   c) Groups records based on column values  
+   d) Removes duplicate records  
+
+12. **Which SQL function is used to retrieve the highest value in a column?**  
+   a) MAX()  
+   b) MIN()  
+   c) HIGH()  
+   d) GREATER()  
+
+13. **Which SQL statement is used to change the structure of a table?**  
+   a) UPDATE TABLE  
+   b) MODIFY TABLE  
+   c) ALTER TABLE  
+   d) EDIT TABLE  
+
+14. **Which operator is used for pattern matching in SQL?**  
+   a) =  
+   b) LIKE  
+   c) MATCH  
+   d) FIND  
+
+15. **Which SQL command is used to remove all records from a table but keep the structure intact?**  
+   a) DROP TABLE  
+   b) DELETE  
+   c) TRUNCATE  
+   d) CLEAR  
+
